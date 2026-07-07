@@ -53,12 +53,6 @@ Contributions attacking any of these are very welcome. Sharp criticism too.
 
 Open an issue, drop ideas, criticize, or just watch. This is early days of a long project. Iterations explicitly invited.
 
-A general meta-level mantra, if you will:  
-*We dance between vision and evidence.  
-**Vision** gives direction.  
-**Data** and humility provide the beat.  
-**Iteration** is the rhythm.*
-
 ---
 
 <sup>1</sup> AFAIK, this name is not established. Yet. What seems established is "Cultured Meat" - this label works great, on multiple levels! _However_, crucially, not on the "roll-off-your-tongue"-ness. Enter "Art Meat": this also includes a hint that the aspired engineering freedom will certainly open up culinary experiences we can not even dream of yet.
