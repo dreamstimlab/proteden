@@ -1,38 +1,28 @@
 # Proteden
 
-This open think tank (protein × Eden) aims to urgently accelerate the development and adoption of what I call **Art Meat** — real meat grown directly from animal cells. 
+**Protein × Eden**
 
-This is [not new](https://en.wikipedia.org/wiki/Cultured_meat#History). Churchill famously argued almost 100 years ago against the "absurdity of growing a whole chicken to eat the breast or wing, by growing these parts separately under a suitable medium."
+This is an open, personal effort to urgently accelerate the development and adoption of **Art Meat** — real meat grown directly from animal cells.
 
-But the field is still annoyingly stuck on engineering, economics, and acceptance. It is just frustrating, since solving Art Meat would give us back so much space for (biodiverse!) restoration and carbon capture.
+The idea isn't new. Nearly 100 years ago, Winston Churchill already pointed out the absurdity of raising entire animals just to eat specific parts. Yet progress in the field remains frustratingly slow — stuck on engineering, cost, and public acceptance. Solving this would free enormous amounts of land for biodiverse restoration and carbon sequestration, while ending a huge amount of unnecessary animal suffering.
 
-Sure, plant-based meat replacements get better and better — and more power to those initiatives! But would you bet our planet that enough people can *be made* (one way or another... yes, I am being intentionally provocatively cynical here) to give up real meat?
+Plant-based alternatives are getting better, and that's great. But I'm skeptical we'll convince enough people worldwide to fully give up real meat. That's why I'm betting on Art Meat instead.
 
-Let's humbly discuss together "what can possibly go wrong" (TODO: add link to issue(s)).
+This is **not** about bans or top-down control. It's about building clearly superior alternatives that make the transition voluntary and attractive over decades — while opening space for new culinary creativity and culture.
 
-The main goal of Proteden is to contribute to getting away from useless animal suffering. Because what the actual fuck are we doing.
+## Why try anyway?
 
-This is **not** about sudden bans or top-down control. It's about creating superior alternatives that make the transition voluntary, attractive, and sustainable over decades. And putting some hitherto unknown art, culture, and culinary experiences into that space. Because taming meat production would give so much new creative freedom that I can't begin to foresee what kind of products would see the light of day in the hands of the right creative makers.
+It probably won't work. But it's cheap enough to try, and *not* trying is already a choice in favor of continued suffering. 
 
-## Why would Proteden succeed?
-
-It probably won't.  
-But it is cheap enough to try.  
-And the mission is important enough that NOT even trying is already a decision towards more suffering.
-
-Also:
-- I am naive. Proudly. And maybe just enough that I could make a little dent in the stuckness of Art Meat.
-- I can tolerate paying with cringe (when trying unorthodox things). Heck, I have written this README, this should be proof enough.
-- I do have some scientific education and connections. Granted, not in that space, but hey.
-- I'd rather keep this open and as discussion- and code-based as possible.
+I'm approaching this with deliberate naivety, tolerance for cringe when exploring weird ideas, and a strong preference for keeping everything radically open and collaborative.
 
 ## Core Principles
 
-- Urgency without panic.
-- Radical openness: everything public, collaborative, and git(hub)-first.
-- Humility and biosafety: bold ideas paired with careful execution and respect for side effects.
-- Evidence-guided: balancing vision with data and iteration.
-- Focus on real impact over purity or signaling.
+- Urgency without panic
+- Radical openness: public, GitHub-first, collaborative
+- Humility and biosafety first
+- Evidence-guided: vision + data + iteration
+- Real impact over signaling
 
 ## Phased Roadmap
 
@@ -43,10 +33,26 @@ timeline
         Advance Art Meat : Engineering + Cost + Taste + Texture + Nutrition
         Consumer acceptance & cultural research
         Regulatory & policy progress
-    section Medium-term (??)
+    section Medium-term
         Scale production & reduce conventional agriculture
         Land return & rewilding initiatives
         Fast yet biodiverse ecosystems
-    section Long-term (???!!)
+    section Long-term (Higher Uncertainty)
         Contained biological innovation (e.g. space-based labs, data-only)
         Planetary-scale sustainable systems
+```
+
+## Major Challenges
+
+- Bioreactor scalability and cost
+- Achieving great taste and texture at scale
+- Deep cultural resistance
+- Supporting farmers during transition
+- Biosafety risks
+- Funding and talent
+
+Contributions attacking any of these are very welcome. Sharp criticism too.
+
+## Want to get involved?
+
+Open an issue, drop ideas, criticize, or just watch. This is early days of a long project. Iterations explicitly invited.
