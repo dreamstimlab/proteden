@@ -23,11 +23,16 @@ I'm approaching this with deliberate naivety, tolerance for cringe when explorin
     - public, GitHub-first, and collaborative
 - humility and biosafety first
     - bold ideas & careful execution
-- We dance between vision and evidence. Vision gives direction; data and humility provide the beat. Iteration is the rhythm.
 - We strongly support plant-based alternatives:
     - cheering them on 
     - being open to the possibility that they prove sufficient for our core goals
     - even then: artisan nature of engineered meat might be worthwile in itself.
+ 
+A general meta-level mantra, if you will:
+*We dance between vision and evidence. 
+**Vision** gives direction; 
+**data** and humility provide the beat. 
+**Iteration** is the rhythm.*
 
 ## Roadmap
 
@@ -49,7 +54,7 @@ timeline
 
 ## Major Challenges
 
-- [] Bioreactor scalability and cost - [] Achieving great taste and texture at scale - Deep cultural resistance - Supporting farmers during transition - Biosafety risks - Funding and talent
+Bioreactor scalability and cost | Achieving great taste and texture at scale | Deep cultural resistance | Supporting farmers during transition | Biosafety risks | Funding and talent
 
 Contributions attacking any of these are very welcome. Sharp criticism too.
 
