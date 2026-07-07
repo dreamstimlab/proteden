@@ -4,23 +4,28 @@
 
 An open effort to urgently accelerate the development and adoption of **Art Meat**<sup>1</sup> — real meat grown directly from animal cells.
 
-The idea [isn't new](https://en.wikipedia.org/wiki/Cultured_meat#History). Nearly 100 years ago, Winston Churchill famously pointed out the 
-> absurdity of growing a whole chicken to eat the breast or wing
+The idea [isn't new](https://en.wikipedia.org/wiki/Cultured_meat#History). Already almost a century ago, Winston Churchill famously pointed out:
 
-and argued the saner alternative of
+| "absurdity of growing a whole chicken to eat the breast or wing" | <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/6f0da9c8-51a3-4861-aa16-acacec830803" /> |
+| -------- | -------- |
+| ...and argued the saner alternative of... |
+| **"growing these parts separately under a suitable medium."** | <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/59be7f3d-a8e5-4733-a789-f82e1b903f6f" /> |
 
-> growing these parts separately under a suitable medium.
+And lots of things have happened since. 
 
-Yet progress in the field got frustratingly stuck on the trifecta 
+---
 
-ENGINEERING 🛠️ | ECONOMICS 📈 | ACCEPTANCE 👎
+Yet: Progress in the field appears frustratingly stuck on 
 
-Solving these would 
-1. free **enormous** amounts of land for biodiverse restoration and carbon sequestration, while
-2. ending a **huge amount** of unnecessary animal suffering... and as a neat little side effect:
-3. It will open space for new culinary creativity and culture and experiences we cannot yet begin to imagine and new classes of a creative industry and ... <sup>2</sup>
+🧱🧱🧱  **ENGINEERING**  🧱🧱🧱  **ECONOMICS**  🧱🧱🧱  **ACCEPTANCE**  🧱🧱🧱
 
-So I say: It is worth a shot to try unsticking ourselves. I can offer naivety. ...and the willingness to fail and pay with cringe. 
+### Benefits of solving these bottlenecks are hard to overstate:
+
+1. We would free **enormous** amounts of land for biodiverse restoration and carbon sequestration. Might just be necessary to save habitability of this planet.
+2. We would end a **huge amount** of unnecessary animal suffering <sup>2</sup>
+3. We would unlock the potential for new culinary creativity and culture and experiences we cannot yet begin to imagine and new classes of a creative industry and jobs and ... and ... and ... <sup>3</sup>
+
+So I say: It is worth a shot to try unsticking ourselves. I can offer naivety. ...and the willingness to fail and pay with cringe. <sup>4</sup>
 
 ## Core Principles
 
@@ -31,7 +36,7 @@ So I say: It is worth a shot to try unsticking ourselves. I can offer naivety. .
     - biosafety first
     - it probably won't work. Heck, there is not even a plan yet except "apply naivity" and "iterate"
     - even if real-world things will change: it'll take decades
-    - but it's cheap enough to try, and *not* trying is already a choice in favor of continued suffering.
+    - but it's cheap enough to try to openly get the ball rolling here, and *not* trying anything is already a choice in favor of continued suffering.
     - also: strong support and cheering-on for plant-based alternatives.
 - at the same time: don't be too shy. openness always in discussing bold, unconventional ideas (since remember: we are stuck). **we err on the side of naivity and optimism.**
 - No bans. No unnecessary top-down control.
@@ -58,7 +63,7 @@ timeline
 
 ## Major Challenges
 
-Bioreactor scalability and cost | Achieving great taste and texture at scale | Deep cultural resistance | Supporting farmers during transition | Biosafety risks | Funding and talent
+❎ Bioreactor scalability and cost ❎ Achieving great taste and texture at scale ❎ Deep cultural resistance ❎ Supporting farmers during transition ❎ Biosafety risks ❎ Funding and talent ❎ ...
 
 Contributions attacking any of these are very welcome. Sharp criticism too.
 
@@ -76,4 +81,8 @@ A general meta-level mantra, if you will:
 
 <sup>1</sup> AFAIK, this name is not established. Yet. What seems established is "Cultured Meat" - this label works great, on multiple levels! _However_, crucially, not on the "roll-off-your-tongue"-ness. Enter "Art Meat": this also includes a hint that the aspired engineering freedom will certainly open up culinary experiences we can not even dream of yet.
 
-<sup>2</sup> Plant-based alternatives are getting better, and that's great. But I remain slightly skeptical we'll convince enough people worldwide to fully give up what is objectively real meat. That's why I'm betting on Art Meat instead. And even if it turns out that going plant-based is a sufficient (and much simpler) solution to the stated problems: artisan nature of engineered meat might be worthwile in itself. Better to have it and not need it than vice versa! 🙂
+<sup>2</sup> Because even if you are an egoistical son of a human, know that human-to-animal communication continues to make huge strides. It'd only take a teensy accidental informational leak to the farm animals that we perform holocaust on them with depraved cruelty times a million. Then, let them gather. They have the numbers. I don't want to have to imagine what would happen during such a revolution then, huh. Better to be on the right side of history ;)
+
+<sup>3</sup> Plant-based alternatives are getting better, and that's great. But I remain slightly skeptical we'll convince enough people worldwide to fully give up what is objectively real meat. That's why I'm betting on Art Meat instead. And even if it turns out that going plant-based is a sufficient (and much simpler) solution to the stated problems: artisan nature of engineered meat might be worthwile in itself. Better to have it and not need it than vice versa! 🙂
+
+<sup>4</sup> Need proof? Take this README, for example.
