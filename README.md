@@ -6,7 +6,9 @@ An open effort to urgently accelerate the development and adoption of **Art Meat
 
 The idea [isn't new](https://en.wikipedia.org/wiki/Cultured_meat#History). Nearly 100 years ago, Winston Churchill famously pointed out the 
 > absurdity of growing a whole chicken to eat the breast or wing
+
 and argued the saner alternative of
+
 > growing these parts separately under a suitable medium.
 
 Yet progress in the field got frustratingly stuck on the trifecta 
