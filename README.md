@@ -32,7 +32,7 @@ It probably won't work. But it's cheap enough to try, and *not* trying is alread
 - humility and biosafety first
     - bold ideas & careful execution
     - strong support and cheering-on for plant-based alternatives
-- awareness that traditional animal agriculture, animal welfare and scalability are largely anti-correlated by design.
+- awareness that traditional animal agriculture, animal welfare and scalability are largely anti-correlated by design - necessitating efforts such as Proteden.
 
 ## Roadmap
 
