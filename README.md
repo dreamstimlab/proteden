@@ -12,11 +12,10 @@ and argued the saner alternative of
 > growing these parts separately under a suitable medium.
 
 Yet progress in the field got frustratingly stuck on the trifecta 
-- engineering
-- economics
-- public acceptance.
 
-Solving this would free enormous amounts of land for biodiverse restoration and carbon sequestration, while ending a huge amount of unnecessary animal suffering. So I say: It is worth a shot to try unsticking ourselves. I can offer naivety. ...and the willingness to fail and pay with cringe.
+ENGINEERING 🛠️ | ECONOMICS 📈 | ACCEPTANCE 👎
+
+Solving these would free **enormous** amounts of land for biodiverse restoration and carbon sequestration, while ending a **huge amount** of unnecessary animal suffering. So I say: It is worth a shot to try unsticking ourselves. I can offer naivety. ...and the willingness to fail and pay with cringe.
 
 No bans. No unnecessary top-down control. Instead: let's build clearly superior alternatives that make the transition voluntary and attractive. It'll take decades. And it will open space for new culinary creativity and culture.<sup>2</sup>
 
