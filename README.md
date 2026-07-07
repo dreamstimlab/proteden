@@ -30,9 +30,9 @@ It probably won't work. But it's cheap enough to try, and *not* trying is alread
     - strong support and cheering-on for plant-based alternatives
 
 A general meta-level mantra, if you will:
-*We dance between vision and evidence. 
-**Vision** gives direction; 
-**data** and humility provide the beat. 
+*We dance between vision and evidence.  
+**Vision** gives direction.  
+**Data** and humility provide the beat.  
 **Iteration** is the rhythm.*
 
 ## Roadmap
