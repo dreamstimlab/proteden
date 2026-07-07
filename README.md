@@ -5,7 +5,9 @@
 An open effort to urgently accelerate the development and adoption of **Art Meat**<sup>1</sup> — real meat grown directly from animal cells.
 
 The idea [isn't new](https://en.wikipedia.org/wiki/Cultured_meat#History). Nearly 100 years ago, Winston Churchill famously pointed out the 
-> absurdity of growing a whole chicken to eat the breast or wing, by growing these parts separately under a suitable medium.
+> absurdity of growing a whole chicken to eat the breast or wing
+and argued the saner alternative of
+> growing these parts separately under a suitable medium.
 
 Yet progress in the field got frustratingly stuck on the trifecta 
 - engineering
@@ -28,12 +30,7 @@ It probably won't work. But it's cheap enough to try, and *not* trying is alread
 - humility and biosafety first
     - bold ideas & careful execution
     - strong support and cheering-on for plant-based alternatives
-
-A general meta-level mantra, if you will:
-*We dance between vision and evidence.  
-**Vision** gives direction.  
-**Data** and humility provide the beat.  
-**Iteration** is the rhythm.*
+- awareness that traditional animal agriculture, animal welfare and scalability are largely anti-correlated by design.
 
 ## Roadmap
 
@@ -62,6 +59,12 @@ Contributions attacking any of these are very welcome. Sharp criticism too.
 ## Want to get involved?
 
 Open an issue, drop ideas, criticize, or just watch. This is early days of a long project. Iterations explicitly invited.
+
+A general meta-level mantra, if you will:  
+*We dance between vision and evidence.  
+**Vision** gives direction.  
+**Data** and humility provide the beat.  
+**Iteration** is the rhythm.*
 
 ---
 
