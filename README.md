@@ -1,8 +1,8 @@
 # Proteden
 
-**Protein × Eden**
+**Protein × Eden** *(get it?)*
 
-This is an open, personal effort to urgently accelerate the development and adoption of **Art Meat** — real meat grown directly from animal cells.
+An open effort to urgently accelerate the development and adoption of **Art Meat**<sup>1</sup> — real meat grown directly from animal cells.
 
 The idea isn't new. Nearly 100 years ago, Winston Churchill already pointed out the absurdity of raising entire animals just to eat specific parts. Yet progress in the field remains frustratingly slow — stuck on engineering, cost, and public acceptance. Solving this would free enormous amounts of land for biodiverse restoration and carbon sequestration, while ending a huge amount of unnecessary animal suffering.
 
@@ -61,3 +61,7 @@ Contributions attacking any of these are very welcome. Sharp criticism too.
 ## Want to get involved?
 
 Open an issue, drop ideas, criticize, or just watch. This is early days of a long project. Iterations explicitly invited.
+
+---
+
+<sup>1</sup> Afaik, this name is not established. Yet. What seems established is "Cultured Meat" - this works greatly, on multiple levels! _However_, crucially, not on the "roll-of-your-tongue"-ness. Enter "Art Meat": this also includes a hint that the aspired engineering freedom will certainly open up culinary experiences we can not even dream of yet.
