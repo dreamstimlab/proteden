@@ -64,4 +64,4 @@ Open an issue, drop ideas, criticize, or just watch. This is early days of a lon
 
 ---
 
-<sup>1</sup> Afaik, this name is not established. Yet. What seems established is "Cultured Meat" - this works greatly, on multiple levels! _However_, crucially, not on the "roll-of-your-tongue"-ness. Enter "Art Meat": this also includes a hint that the aspired engineering freedom will certainly open up culinary experiences we can not even dream of yet.
+<sup>1</sup> Afaik, this name is not established. Yet. What seems established is "Cultured Meat" - this label works great, on multiple levels! _However_, crucially, not on the "roll-off-your-tongue"-ness. Enter "Art Meat": this also includes a hint that the aspired engineering freedom will certainly open up culinary experiences we can not even dream of yet.
