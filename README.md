@@ -18,38 +18,38 @@ I'm approaching this with deliberate naivety, tolerance for cringe when explorin
 
 ## Core Principles
 
-- Urgency without panic
-- Radical openness: public, GitHub-first, collaborative
-- Humility and biosafety first
-- Evidence-guided: vision + data + iteration
-- Real impact over signaling
+- **urgency without panic**
+- radical openness
+    - public, GitHub-first, and collaborative
+- humility and biosafety first
+    - bold ideas & careful execution
+- We dance between vision and evidence. Vision gives direction; data and humility provide the beat. Iteration is the rhythm.
+- We strongly support plant-based alternatives:
+    - cheering them on 
+    - being open to the possibility that they prove sufficient for our core goals
+    - even then: artisan nature of engineered meat might be worthwile in itself.
 
-## Phased Roadmap
+## Roadmap
 
 ```mermaid
 timeline
     title Proteden Phased Roadmap
-    section Near-term (Focus Now)
+    section Phase One
         Advance Art Meat : Engineering + Cost + Taste + Texture + Nutrition
         Consumer acceptance & cultural research
         Regulatory & policy progress
-    section Medium-term
-        Scale production & reduce conventional agriculture
-        Land return & rewilding initiatives
-        Fast yet biodiverse ecosystems
-    section Long-term (Higher Uncertainty)
-        Contained biological innovation (e.g. space-based labs, data-only)
-        Planetary-scale sustainable systems
+    section Phase Two?
+        Scale production
+        Reduce conventional agriculture
+        Initiating land return
+    section Phase Three?!?
+        contained biological innovation to overcome trade-off between biodiversity and carbon capture speed
+        (e.g. space-based labs, data-only)
 ```
 
 ## Major Challenges
 
-- Bioreactor scalability and cost
-- Achieving great taste and texture at scale
-- Deep cultural resistance
-- Supporting farmers during transition
-- Biosafety risks
-- Funding and talent
+- [] Bioreactor scalability and cost - [] Achieving great taste and texture at scale - Deep cultural resistance - Supporting farmers during transition - Biosafety risks - Funding and talent
 
 Contributions attacking any of these are very welcome. Sharp criticism too.
 
