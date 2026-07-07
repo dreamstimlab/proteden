@@ -43,24 +43,6 @@ So I say: It is worth a shot to try unsticking ourselves. I can offer naivety. .
     - Instead: building towards objectively superior alternatives
     - keeping the transition voluntary and attractive
 
-## Roadmap
-
-```mermaid
-timeline
-    title Proteden Phased Roadmap
-    section Phase One
-        Advance Art Meat : Engineering + Cost + Taste + Texture + Nutrition
-        Consumer acceptance & cultural research
-        Regulatory & policy progress
-    section Phase Two?
-        Scale production
-        Reduce conventional agriculture
-        Initiating land return
-    section Phase Three?!?
-        contained biological innovation to overcome trade-off between biodiversity and carbon capture speed
-        (e.g. space-based labs, data-only)
-```
-
 ## Major Challenges
 
 ❎ Bioreactor scalability and cost ❎ Achieving great taste and texture at scale ❎ Deep cultural resistance ❎ Supporting farmers during transition ❎ Biosafety risks ❎ Funding and talent ❎ ...
