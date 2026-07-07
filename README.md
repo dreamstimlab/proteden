@@ -15,13 +15,12 @@ Yet progress in the field got frustratingly stuck on the trifecta
 
 ENGINEERING 🛠️ | ECONOMICS 📈 | ACCEPTANCE 👎
 
-Solving these would free **enormous** amounts of land for biodiverse restoration and carbon sequestration, while ending a **huge amount** of unnecessary animal suffering. And as a side effect: It will open space for new culinary creativity and culture and experiences we cannot yet begin to imagine and new classes of a creative industry and ... <sup>2</sup>
+Solving these would 
+1. free **enormous** amounts of land for biodiverse restoration and carbon sequestration, while
+2. ending a **huge amount** of unnecessary animal suffering... and as a neat little side effect:
+3. It will open space for new culinary creativity and culture and experiences we cannot yet begin to imagine and new classes of a creative industry and ... <sup>2</sup>
 
-So I say: It is worth a shot to try unsticking ourselves. I can offer naivety. ...and the willingness to fail and pay with cringe.
-
-## Why try anyway?
-
- But it's cheap enough to try, and *not* trying is already a choice in favor of continued suffering. 
+So I say: It is worth a shot to try unsticking ourselves. I can offer naivety. ...and the willingness to fail and pay with cringe. 
 
 ## Core Principles
 
@@ -32,7 +31,8 @@ So I say: It is worth a shot to try unsticking ourselves. I can offer naivety. .
     - biosafety first
     - it probably won't work. Heck, there is not even a plan yet except "apply naivity" and "iterate"
     - even if real-world things will change: it'll take decades
-    - strong support and cheering-on for plant-based alternatives
+    - but it's cheap enough to try, and *not* trying is already a choice in favor of continued suffering.
+    - also: strong support and cheering-on for plant-based alternatives.
 - at the same time: don't be too shy. openness always in discussing bold, unconventional ideas (since remember: we are stuck). **we err on the side of naivity and optimism.**
 - No bans. No unnecessary top-down control.
     - Instead: building towards objectively superior alternatives
